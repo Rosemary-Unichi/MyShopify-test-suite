@@ -4,7 +4,7 @@
 
 Manual functional testing of the **Sauce Demo** Shopify storefront. The test cases cover browsing, search, account sign-up/login, cart, checkout/payment, wish list, referral, and keyboard accessibility.
 
-## 📌 Project Details
+##  Project Details
 
 | | |
 |---|---|
@@ -18,7 +18,7 @@ Manual functional testing of the **Sauce Demo** Shopify storefront. The test cas
 
 > This is a demo storefront. Only test data was used and no real payment details were entered.
 
-## 🎯 Objective
+##  Objective
 Verify that the core shopping flows of the Sauce Demo store work as intended: browsing, search, account sign-up/login, cart, checkout/payment, wish list, referral, and keyboard accessibility.
 
 ## 📊 Execution Summary
@@ -63,27 +63,27 @@ Verify that the core shopping flows of the Sauce Demo store work as intended: br
 | Refer a friend | 1 (MS-023) |
 | Accessibility (keyboard) | 1 (MS-026) |
 
-## 🧪 What Was Tested
+##  What Was Tested
 - **Happy path:** homepage load, catalog browsing, valid search, registration, login, add/remove/multiple items in cart, quantity update, checkout with a registered and a guest user, wish list and referral links
 - **Negative:** no-match search, invalid email, empty email, wrong password, empty password, empty-cart checkout, missing delivery address, placeholder address
 - **Edge:** numeric search, sold-out item, order quantity limit, cart persistence after logout and login, keyboard-only navigation
 
-## 📝 Test Case Format
+##  Test Case Format
 Each test case includes: Test Case ID, Module, Title, Category, Priority, Preconditions, Test Data, Step-by-step actions, Expected Result, Actual Result, Status, and Comments.
 
 **Status legend:** `PASSED` | `FAILED` | `KNOWN ISSUE` | `RE-TEST` | `NOT RUN` | `BLOCKED`
 
-## 📂 Repository Contents
+##  Repository Contents
 ```
 ├── MyShopify_main_test_case_documentation.xlsx   # Test cases + execution summary
 └── README.md
 ```
 
-## 🛠️ Tools
+##  Tools
 `Microsoft Excel` `Google Chrome`
 
-## 📫 Contact
+##  Contact
 **Unichi Rosemary** | Certified Software Tester
-📍 Owerri, Nigeria | ✉️ unichirosemary@gmail.com | 🔗 [LinkedIn](your-linkedin-url)
+ Owerri, Nigeria | ✉️ unichirosemary@gmail.com | 🔗 [LinkedIn](your-linkedin-url)
 [MyShopify main test case documentation.xlsx](https://github.com/user-attachments/files/35532470/MyShopify.main.test.case.documentation.xlsx)
 [MyShopify_Improved_Test_Plan.docx](https://github.com/user-attachments/files/35532445/MyShopify_Improved_Test_Plan.docx)
