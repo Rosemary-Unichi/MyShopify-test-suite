@@ -85,5 +85,6 @@ Each test case includes: Test Case ID, Module, Title, Category, Priority, Precon
 ##  Contact
 **Unichi Rosemary** | Certified Software Tester
  Owerri, Nigeria | ✉️ unichirosemary@gmail.com | 🔗 [LinkedIn](your-linkedin-url)
-[MyShopify main test case documentation.xlsx](https://github.com/user-attachments/files/35532470/MyShopify.main.test.case.documentation.xlsx)
-[MyShopify_Improved_Test_Plan.docx](https://github.com/user-attachments/files/35532445/MyShopify_Improved_Test_Plan.docx)
+[MyShopify main test case documentation.xlsx](https://github.com/user-attachments/files/35534001/MyShopify.main.test.case.documentation.xlsx)
+[MyShopify test plan.docx](https://github.com/user-attachments/files/35533999/MyShopify.test.plan.docx)
+
