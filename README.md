@@ -21,16 +21,16 @@ Manual functional testing of the **Sauce Demo** Shopify storefront. The test cas
 ##  Objective
 Verify that the core shopping flows of the Sauce Demo store work as intended: browsing, search, account sign-up/login, cart, checkout/payment, wish list, referral, and keyboard accessibility.
 
-## 📊 Execution Summary
+##  Execution Summary
 
 | Test cases | Count |
 |---|---|
 | Total executed | 26 |
-| ✅ Passed | 21 |
-| ❌ Failed | 4 |
-| ⚠️ Known issue | 1 |
-| 🔁 Re-test required | 0 |
-| 🚫 Blocked | 0 |
+|  Passed | 21 |
+|  Failed | 4 |
+| Known issue | 1 |
+|  Re-test required | 0 |
+|  Blocked | 0 |
 
 | Test steps | Count |
 |---|---|
